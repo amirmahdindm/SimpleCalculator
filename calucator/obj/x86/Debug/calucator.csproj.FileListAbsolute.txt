@@ -1,0 +1,35 @@
+E:\ex . pishrafte\calucator\calucator\bin\Debug\calucator.exe
+E:\ex . pishrafte\calucator\calucator\bin\Debug\calucator.pdb
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\calucator.Form1.resources
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\calucator.Properties.Resources.resources
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\calucator.exe
+E:\ex . pishrafte\calucator\calucator\obj\x86\Debug\calucator.pdb
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\calucator.exe
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\calucator.pdb
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\calucator.Form1.resources
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\calucator.Properties.Resources.resources
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ex . pishrafte\calculator\calucator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ex . pishrafte\calculator\calucator\bin\Debug\calucator.exe
+E:\ex . pishrafte\calculator\calucator\bin\Debug\calucator.pdb
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\calucator.exe
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\calucator.pdb
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\bin\Debug\calucator.exe
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\bin\Debug\calucator.pdb
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\calucator.Form1.resources
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\calucator.Properties.Resources.resources
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Milad Allahgholi\Desktop\calculator\calucator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.exe
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.pdb
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.Form1.resources
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.Properties.Resources.resources
+E:\c#\calculator\calucator\bin\Debug\calucator.exe
+E:\c#\calculator\calucator\bin\Debug\calucator.pdb
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.csproj.GenerateResource.Cache
+E:\c#\calculator\calucator\obj\x86\Debug\calucator.csprojResolveAssemblyReference.cache
